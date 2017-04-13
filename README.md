@@ -14,12 +14,12 @@ Tournament project for Udacity Full Stack Nanodegree
 From a GitHub shell:
 
 ```
-cd fullstack/vagrant
-vagrant up (you can turn off the VM with 'vagrant halt')
-vagrant ssh (from here you can type 'exit' to log out)
-cd /vagrant/tournament
-psql -f tournament.sql
-python tournament_results.py
+$ cd fullstack/vagrant
+$ vagrant up (you can turn off the VM with 'vagrant halt')
+$ vagrant ssh (from here you can type 'exit' to log out)
+$ cd /vagrant/tournament
+$ psql -f tournament.sql
+$ python tournament_results.py
 ```
 
 ### Running the project
@@ -33,6 +33,5 @@ python tournament_results.py
 
 Tadaa! You have the tournament working according to the unit tests
 
-###References
-
+### References
 [1] https://en.wikipedia.org/wiki/Swiss-system_tournament
