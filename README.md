@@ -35,3 +35,4 @@ Tadaa! You have the tournament working according to the unit tests
 
 ### References
 [1] https://en.wikipedia.org/wiki/Swiss-system_tournament
+
